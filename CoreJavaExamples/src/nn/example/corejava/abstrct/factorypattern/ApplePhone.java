@@ -1,4 +1,4 @@
-package nn.example.corejava.abstrct.mobile;
+package nn.example.corejava.abstrct.factorypattern;
 
 public class ApplePhone extends MobileFeatures  {
 
